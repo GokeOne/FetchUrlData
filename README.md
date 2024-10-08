@@ -68,6 +68,7 @@ The following patterns are searched in the content of each valid URL:
 - (?i)username
 - (?i)usuario
 - (?i)cliente
+- (?i)hash
 
 This list can be expanded by modifying the patterns array in the utils/funcs.go file.
 
